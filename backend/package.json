@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "geolib": "^3.3.4",
+    "haversine-distance": "^1.2.3",
+    "js-priority-queue": "^0.1.5",
+    "mongoose": "^8.6.3",
+    "socket.io": "^4.8.1",
+    "validator": "^13.12.0"
+  }
+}
